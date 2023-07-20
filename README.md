@@ -34,4 +34,11 @@ jobs:
 4. Press start then next then authorize
 5. You should get a few of text boxes, Copy the code of one of textboxes which starts with `4/` or any other
 6. Replace Code here with your copied text
-7. Now run workflow and you are done
+7. Now run workflow
+8. Wait a bit.
+9. Now go to [chrome remote desktop](https://remotedesktop.google.com/access)
+10. You should see GITHUB, press it
+11. If it asks for pin, type `123456`
+12. If you see an white window without any text means you need to wait more
+13. If it has label "GNOME", press it
+14. You are done!
